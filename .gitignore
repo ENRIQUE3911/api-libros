@@ -1,0 +1,9 @@
+# Dependencias (se reinstalan con npm install)
+node_modules/
+
+# Archivos comprimidos de entrega
+*.zip
+
+# Registros y variables de entorno
+npm-debug.log*
+.env
